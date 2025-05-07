@@ -5,7 +5,7 @@ Theo Tổ chức Y tế Thế giới (WHO), đột quỵ là nguyên nhân gây 
 
 Các đặc trưng trong tập dữ liệu:
 
-id: Mã định danh của bệnh nhân
+- **id**: Mã định danh của bệnh nhân
 
 gender: Giới tính của bệnh nhân, "Male", "Female" or "Other"
 
